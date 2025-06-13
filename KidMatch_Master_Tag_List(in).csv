@@ -1,0 +1,75 @@
+Tag,Category 1,Weight 1,Category 2,Weight 2
+Extroverted,Social Butterflies,1,,
+Social,Social Butterflies,1,,
+Energetic,Social Butterflies,1,,
+Outgoing,Social Butterflies,1,Creative Explorers,0.5
+Friendly,Social Butterflies,1,,
+Playful,Social Butterflies,1,Creative Explorers,0.5
+Fun-Loving,Social Butterflies,1,Impulsive Freestylers,0.5
+Silly,Social Butterflies,0.5,,
+Acting,Social Butterflies,0.5,Creative Explorers,0.5
+Physical Activities,Social Butterflies,1,Adventure Seekers,1
+Sports,Social Butterflies,1,,
+Playground,Social Butterflies,1,Adventure Seekers,1
+Dance/Motion Arts,Social Butterflies,0.5,Impulsive Freestylers,0.5
+Group Games,Social Butterflies,1,,
+Adventurous,Social Butterflies,0.5,Adventure Seekers,1
+Music,Social Butterflies,0.5,,
+Creative,Creative Explorers,1,Impulsive Freestylers,0.5
+Imaginative,Creative Explorers,1,,
+Curious,Creative Explorers,0.5,Adventure Seekers,1
+Visual Arts,Creative Explorers,1,,
+Creative Arts,Creative Explorers,1,,
+DIY,Creative Explorers,1,,
+Builder,Creative Explorers,0.5,Systematic Builders,1
+Storytelling,Creative Explorers,0.5,,
+Fashion,Creative Explorers,0.5,,
+Architecture,Creative Explorers,0.5,Systematic Builders,1
+Roleplay,Creative Explorers,1,Empathetic Harmonizers,0.5
+Introverted,Quiet Thinkers,1,,
+Shy,Quiet Thinkers,1,,
+Chill,Quiet Thinkers,1,,
+Analytical,Quiet Thinkers,1,,
+Observant,Quiet Thinkers,1,,
+Reserved,Quiet Thinkers,1,Family-Guided Traditionalists,0.5
+Reading/Writing,Quiet Thinkers,1,,
+Puzzles,Quiet Thinkers,1,Systematic Builders,0.5
+Quiet Time,Quiet Thinkers,1,,
+Museums,Quiet Thinkers,1,,
+Intellectual Activities,Quiet Thinkers,1,,
+Logical Thinker,Quiet Thinkers,1,Systematic Builders,1
+Detail-Oriented,Quiet Thinkers,1,,
+Independent,Quiet Thinkers,0.5,,
+Caring,Empathetic Harmonizers,1,,
+Cooperative,Empathetic Harmonizers,1,,
+Empathetic,Empathetic Harmonizers,1,,
+Helpful,Empathetic Harmonizers,1,,
+Sensitive,Empathetic Harmonizers,1,,
+Considerate,Empathetic Harmonizers,1,,
+Nurturing,Empathetic Harmonizers,1,,
+Supportive,Empathetic Harmonizers,1,Family-Guided Traditionalists,1
+Loyal,Empathetic Harmonizers,0.5,,
+Calm,Empathetic Harmonizers,0.5,Family-Guided Traditionalists,0.5
+Pets,Empathetic Harmonizers,0.5,Adventure Seekers,0.5
+Nature,Adventure Seekers,1,,
+Outdoor Activities,Adventure Seekers,1,,
+Space,Adventure Seekers,0.5,,
+Gardening,Adventure Seekers,0.5,,
+Visionary,Adventure Seekers,0.5,,
+Fast Thinker,Adventure Seekers,0.5,,
+Logical,Systematic Builders,1,,
+Systematic,Systematic Builders,1,,
+Disciplined,Systematic Builders,1,,
+Organized,Systematic Builders,1,Family-Guided Traditionalists,1
+STEAM,Systematic Builders,1,,
+Educational,Systematic Builders,1,Family-Guided Traditionalists,0.5
+Responsible,Systematic Builders,0.5,Family-Guided Traditionalists,0.5
+Spontaneous,Impulsive Freestylers,1,,
+Impulsive,Impulsive Freestylers,1,,
+Chaotic,Impulsive Freestylers,1,,
+Indecisive,Impulsive Freestylers,1,,
+Social Activities,Impulsive Freestylers,1,,
+Traditional,Family-Guided Traditionalists,1,,
+Close-Knit,Family-Guided Traditionalists,1,,
+Spiritual,Family-Guided Traditionalists,1,,
+Structured,Family-Guided Traditionalists,1,,
